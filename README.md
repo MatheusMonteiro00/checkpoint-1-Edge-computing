@@ -114,8 +114,8 @@ codigo.ino
 ---
 
 ## 👤 Autores
-André Victor
-Davi Dias
-David Mikael
-Gabriel Novaga
-Matheus Monteiro
+* André Victor
+* Davi Dias
+* David Mikael
+* Gabriel Novaga
+* Matheus Monteiro
