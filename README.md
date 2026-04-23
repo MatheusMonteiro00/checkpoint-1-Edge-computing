@@ -83,7 +83,7 @@ codigo.ino
 
 ## 🎥 Demonstração
 
-ADICIONAR LINK DO VIDEOOOOOO
+[Video de demonstração do projeto.](https://www.youtube.com/watch?v=bRe7qtNF1vw)
 ---
 
 ## 🚀 Como executar
