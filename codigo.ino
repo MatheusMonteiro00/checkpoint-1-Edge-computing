@@ -52,10 +52,10 @@ void loop()
 void verificar(){
   ldrvalue = analogRead(ldr);
   
-  if(ldrvalue < 200){
+  if(ldrvalue <= 200){
     alert = 1;
   }
-  if(ldrvalue > 200 && ldrvalue < 500){
+  if(ldrvalue > 200 && ldrvalue <= 500){
     alert = 2;
   }
   if(ldrvalue > 500){
